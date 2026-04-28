@@ -1,8 +1,4 @@
 
-# create a md file for this
-
-Below is a clean, ready-to-use `README.md` file for your Outline Extractor project. You can copy this as-is into `README.md` in your repo. The structure follows common README best practices with clear sections for overview, installation, usage, and troubleshooting.[^1][^2]
-
 ```md
 # Outline Extractor
 
